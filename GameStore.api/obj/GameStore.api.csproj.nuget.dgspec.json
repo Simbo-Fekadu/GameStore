@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Simbo\\Desktop\\training-courses\\self\\GameStore\\GameStore.Api\\GameStore.api.csproj": {}
+    "C:\\Users\\Simbo\\Desktop\\training-courses\\self\\GameStore\\GameStore.api\\GameStore.api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Simbo\\Desktop\\training-courses\\self\\GameStore\\GameStore.Api\\GameStore.api.csproj": {
+    "C:\\Users\\Simbo\\Desktop\\training-courses\\self\\GameStore\\GameStore.api\\GameStore.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Simbo\\Desktop\\training-courses\\self\\GameStore\\GameStore.Api\\GameStore.api.csproj",
+        "projectUniqueName": "C:\\Users\\Simbo\\Desktop\\training-courses\\self\\GameStore\\GameStore.api\\GameStore.api.csproj",
         "projectName": "GameStore.api",
-        "projectPath": "C:\\Users\\Simbo\\Desktop\\training-courses\\self\\GameStore\\GameStore.Api\\GameStore.api.csproj",
+        "projectPath": "C:\\Users\\Simbo\\Desktop\\training-courses\\self\\GameStore\\GameStore.api\\GameStore.api.csproj",
         "packagesPath": "C:\\Users\\Simbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Simbo\\Desktop\\training-courses\\self\\GameStore\\GameStore.Api\\obj\\",
+        "outputPath": "C:\\Users\\Simbo\\Desktop\\training-courses\\self\\GameStore\\GameStore.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Simbo\\AppData\\Roaming\\NuGet\\NuGet.Config"
