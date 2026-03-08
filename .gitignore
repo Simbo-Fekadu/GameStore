@@ -1,0 +1,70 @@
+# .gitignore - GameStore (.NET / Visual Studio)
+
+# Build outputs
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+
+# VS Code
+.vscode/
+
+# Rider / JetBrains
+.idea/
+*.DotSettings.user
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+.nuget/
+
+# Dotnet publish / artifacts
+publish/
+artifacts/
+
+# Test results and coverage
+TestResults/
+*.trx
+*.coverage
+coverage/
+
+# Logs and temp files
+logs/
+*.log
+*.tmp
+*.temp
+*.cache
+
+# Runtime / compiled files (covered by bin/ and obj/ but kept here for safety)
+*.dll
+*.exe
+*.pdb
+*.dll.mdb
+
+# Local config & secrets
+appsettings.Development.json
+local.settings.json
+secrets.json
+
+# Database files
+*.mdf
+*.ldf
+*.sqlite
+*.db
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Resharper
+_ReSharper*/
