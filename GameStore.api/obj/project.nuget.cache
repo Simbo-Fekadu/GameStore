@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vzkcpu8t/mM=",
+  "dgSpecHash": "n958iFiz+es=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Simbo\\Desktop\\training-courses\\self\\GameStore\\GameStore.api\\GameStore.api.csproj",
+  "projectFilePath": "C:\\Users\\Simbo\\Desktop\\training-courses\\self\\GameStore\\GameStore.api\\GameStore.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Simbo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Simbo\\.nuget\\packages\\microsoft.build.framework\\18.0.2\\microsoft.build.framework.18.0.2.nupkg.sha512",
